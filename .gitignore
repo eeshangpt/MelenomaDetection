@@ -2,5 +2,3 @@ data/**
 *.pdf
 *.png
 .ipynb_checkpoint/**
-Starter_code_Assignment_CNN_Skin_Cancer (1).ipynb
-CNN_Assignment_solution.ipynb
